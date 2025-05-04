@@ -45,8 +45,5 @@ This repository contains my solution for the **Credit Card Fraud Detection** tas
 
 ---
 
-## 🔗 LinkedIn Post
-
-Check out my project and results: [LinkedIn Project Post]([https://www.linkedin.com/posts/yourusername_credit-card-fraud-detection-activity-1234567890123456789/](https://www.linkedin.com/posts/vigneshwaran--r_datascience-neuronexus-internship-activity-7324742623276007424-yUYb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEL-7cUB80mFQ2rIwNzLRPLIHVmuRC9joB0))
 
 
